@@ -1,0 +1,25 @@
+{
+  "name": "bot-resolt",
+  "version": "1.0.0",
+  "description": "Bot-revolt",
+  "main": "bot.js",
+  "scripts": {
+    "test": "run teste"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gui-Danni-Cmd/REVOLT-BOT-APP.git"
+  },
+  "keywords": [
+    "Gui270803"
+  ],
+  "author": "Guilherme",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gui-Danni-Cmd/REVOLT-BOT-APP/issues"
+  },
+  "homepage": "https://github.com/Gui-Danni-Cmd/REVOLT-BOT-APP#readme",
+  "dependencies": {
+    "revolt.js": "^6.0.18"
+  }
+}
